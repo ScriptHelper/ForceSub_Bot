@@ -46,7 +46,7 @@ async def _start(client, message):
                            InlineKeyboardButton("Support Group", url="https://t.me/scripthelper360")
                       ],
                      [
-                           InlineKeyboardButton("🧑‍💻Devloper🧑‍💻", url="https://t.me/JigarVarma2005")
+                           InlineKeyboardButton("🧑‍💻Devloper🧑‍💻", url="https://t.me/TGBDeveloper")
                      ]
                  ]
              ),
@@ -63,7 +63,7 @@ async def _start(client, message):
                     InlineKeyboardButton("Support Group", url="https://t.me/scripthelper360")
                 ],
                 [
-                    InlineKeyboardButton("🧑‍💻Devloper🧑‍💻", url="https://t.me/JigarVarma2005")
+                    InlineKeyboardButton("🧑‍💻Devloper🧑‍💻", url="https://t.me/TGBDeveloper")
                 ]
             ]
         ),
@@ -79,14 +79,14 @@ async def _source_code(client, message):
 	reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("Souce Code", url="https://github.com/Jigarvarma2005/ForceSub_Bot")
+                    InlineKeyboardButton("Souce Code", url="https://github.com/ScriptHelper/ForceSub_Bot")
                 ],
                 [
                     InlineKeyboardButton("Join Updates Channel", url="https://t.me/codeworld360"),
                     InlineKeyboardButton("Support Group", url="https://t.me/scripthelper360")
                 ],
                 [
-                    InlineKeyboardButton("🧑‍💻Devloper🧑‍💻", url="https://t.me/JigarVarma2005")
+                    InlineKeyboardButton("🧑‍💻Devloper🧑‍💻", url="https://t.me/TGBDeveloper")
                 ]
             ]
         ),
