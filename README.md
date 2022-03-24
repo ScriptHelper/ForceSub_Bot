@@ -43,7 +43,5 @@ python3 bot.py
 
 ## Thanks to
 - [Script Helper 360](https://github.com/ScriptHelper)
-- [Jigar Varma](https://github.com/Jigarvarma2005)
 - [viperadnan](https://github.com/viperadnan-git)
 - [PyroGram](https://PyroGram.org)
-- [Hasibul Kabir](https://GitHub.com/hasibulkabir) and [Spechide](https://GitHub.com/spechide) for helping.
