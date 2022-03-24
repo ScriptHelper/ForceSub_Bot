@@ -60,7 +60,7 @@ async def _start(client, message):
             [
                 [
                     InlineKeyboardButton("Join Updates Channel", url="https://t.me/UniversalBotsUpdate"),
-                    InlineKeyboardButton("Support Group", url="https://t.me/UniversalBotsSupport")
+                    InlineKeyboardButton("Support Group", url="https://t.me/scripthelper360")
                 ],
                 [
                     InlineKeyboardButton("🧑‍💻Devloper🧑‍💻", url="https://t.me/JigarVarma2005")
@@ -83,7 +83,7 @@ async def _source_code(client, message):
                 ],
                 [
                     InlineKeyboardButton("Join Updates Channel", url="https://t.me/UniversalBotsUpdate"),
-                    InlineKeyboardButton("Support Group", url="https://t.me/UniversalBotsSupport")
+                    InlineKeyboardButton("Support Group", url="https://t.me/scripthelper360")
                 ],
                 [
                     InlineKeyboardButton("🧑‍💻Devloper🧑‍💻", url="https://t.me/JigarVarma2005")
@@ -103,7 +103,7 @@ async def _help(client, message):
             if user.status == "kicked":
                await client.send_message(
                    chat_id=message.chat.id,
-                   text="Sorry Sir, You are Banned to use me. Contact my [Support Group](https://t.me/UniversalBotsSupport).",
+                   text="Sorry Sir, You are Banned to use me. Contact my [Support Group](https://t.me/scripthelper360).",
                    parse_mode="markdown",
                    disable_web_page_preview=True
                )
@@ -125,7 +125,7 @@ async def _help(client, message):
         except Exception:
             await client.send_message(
                 chat_id=message.chat.id,
-                text="Hey use this command in my pm. \nFor more help ask in my [Support Group](https://t.me/UniversalBotsSupport).",
+                text="Hey use this command in my pm. \nFor more help ask in my [Support Group](https://t.me/scripthelper360).",
                 parse_mode="markdown",
                 disable_web_page_preview=True)
             return
