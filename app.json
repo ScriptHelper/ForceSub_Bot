@@ -1,6 +1,6 @@
 {
     "name": "Force Channels Subscriber Bot",
-    "description": "Python based bot to Force Users to sub a channel.",
+    "description": "Python based bot to Force Users to subscribe Telegram channels.",
     "logo": "",
     "keywords": [
         "telegram",
