@@ -42,7 +42,7 @@ python3 bot.py
 - Read `Config.py` to know all configs
 
 ## Thanks to
-- [Script Helper 360](https://github.com/ScriptHelper
+- [Script Helper 360](https://github.com/ScriptHelper)
 - [Jigar Varma](https://github.com/Jigarvarma2005)
 - [viperadnan](https://github.com/viperadnan-git)
 - [PyroGram](https://PyroGram.org)
