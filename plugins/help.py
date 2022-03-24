@@ -42,7 +42,7 @@ async def _start(client, message):
 	        reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                           InlineKeyboardButton("Join Updates Channel", url="https://t.me/UniversalBotsUpdate"),
+                           InlineKeyboardButton("Join Updates Channel", url="https://t.me/codeworld360"),
                            InlineKeyboardButton("Support Group", url="https://t.me/scripthelper360")
                       ],
                      [
@@ -59,7 +59,7 @@ async def _start(client, message):
 	reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("Join Updates Channel", url="https://t.me/UniversalBotsUpdate"),
+                    InlineKeyboardButton("Join Updates Channel", url="https://t.me/codeworld360"),
                     InlineKeyboardButton("Support Group", url="https://t.me/scripthelper360")
                 ],
                 [
@@ -82,7 +82,7 @@ async def _source_code(client, message):
                     InlineKeyboardButton("Souce Code", url="https://github.com/Jigarvarma2005/ForceSub_Bot")
                 ],
                 [
-                    InlineKeyboardButton("Join Updates Channel", url="https://t.me/UniversalBotsUpdate"),
+                    InlineKeyboardButton("Join Updates Channel", url="https://t.me/codeworld360"),
                     InlineKeyboardButton("Support Group", url="https://t.me/scripthelper360")
                 ],
                 [
