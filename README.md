@@ -6,7 +6,7 @@
 - [ ] Add multiple channels support
 - [ ] LOGGER support.
 
-## Whats new in this fork?🤔
+## Whats new in this repo?🤔
 - Added Private channel support.
 - Some improvments and fixes.
 - Added force sub for your bot channel.
