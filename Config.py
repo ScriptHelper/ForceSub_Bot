@@ -1,4 +1,4 @@
-import os
+import o
 
 class Config():
   #Get it from @botfather
